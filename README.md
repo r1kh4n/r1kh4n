@@ -62,7 +62,7 @@
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r1kh4n&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&border_color=00ffcc" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=r1kh4n&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff&border_color=00ffcc" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1kh4n&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=00ffcc" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=r1kh4n&layout=compact&theme=radical&bg_color=0d1117&title_color=00ffcc&text_color=ffffff&border_color=00ffcc" />
 </p>
 
 ---
