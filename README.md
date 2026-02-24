@@ -62,15 +62,15 @@
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r1kh4n" />
+  <img src="https://github-readme-stats.vercel.app/api?username=r1kh4n&show_icons=true&theme=dark&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=r1kh4n" />
+  <img src="https://streak-stats.demolab.com?user=r1kh4n&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1kh4n" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1kh4n&layout=compact&theme=dark&cache_seconds=86400" />
 </p>
 
 ---
