@@ -75,6 +75,15 @@
 
 ---
 
+## 👾 CONTRIBUTION PACMAN
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/r1kh4n/r1kh4n/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+
 ## 📡 CONNECT
 
 ```bash
