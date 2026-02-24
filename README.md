@@ -87,7 +87,7 @@
 ## 📡 CONNECT
 
 ```bash
-Email    : your@email.com
+Email    : Ahmad.rikhan.arbai@email.com
 Location : Indonesia
 Focus    : Backend Engineering
 Goal     : Build Reliable & Scalable Systems
