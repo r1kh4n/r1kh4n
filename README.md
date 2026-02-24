@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1kh4n&layout=compact&theme=dark&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=r1kh4n&theme=dark" />
 </p>
 
 ---
