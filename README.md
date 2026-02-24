@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r1kh4n&theme=black-ice&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" />
+  <img src="https://streak-stats.demolab.com?user=r1kh4n&theme=black-ice&background=0d1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc" />
 </p>
 
 <p align="center">
